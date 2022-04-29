@@ -1,0 +1,39 @@
+$BrandColor: #6ac66b;
+// .navbarStyle
+// {
+//     background-color: white;
+// }
+
+.navbarStyle
+{
+    background-color: white;
+    overflow: hidden;
+}
+
+.navbarButton.navbar-toggler{
+    border-color: lightgreen;
+}
+
+.navbarButton.navbar-toggler-icon{ 
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 128, 0, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbarLinks{
+    color:#6ac66b;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.navbarLoginButton{
+    border-radius: 20px;
+    color: white;
+    background-color: $BrandColor; 
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.navbarLoginButton:hover{
+    color:$BrandColor;
+    background-color: white;
+    border-color: $BrandColor;
+}
+

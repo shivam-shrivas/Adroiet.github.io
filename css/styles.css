@@ -1,0 +1,52 @@
+.navbarStyle {
+  background-color: white;
+  overflow: hidden; }
+
+.navbarButton.navbar-toggler {
+  border-color: lightgreen; }
+
+.navbarButton.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 128, 0, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); }
+
+.navbarLinks {
+  color: #6ac66b;
+  font-family: 'Source Sans Pro', sans-serif; }
+
+.navbarLoginButton {
+  border-radius: 20px;
+  color: white;
+  background-color: #6ac66b;
+  font-weight: bold;
+  font-size: 1em; }
+
+.navbarLoginButton:hover {
+  color: #6ac66b;
+  background-color: white;
+  border-color: #6ac66b; }
+
+.index {
+  background-color: #fcfbfb; }
+
+.sliderContactButton {
+  background-color: blue;
+  color: white;
+  border-radius: 20px;
+  max-height: 1.5em;
+  font-weight: bold;
+  font-size: 2vw;
+  padding: 0 5% 0 5%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
+
+.sliderContactButton:hover {
+  border: blue solid 1px;
+  background-color: white;
+  color: blue; }
+
+.sliderText {
+  color: Blue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+.sliderText1 {
+  color: red;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.5vw; }

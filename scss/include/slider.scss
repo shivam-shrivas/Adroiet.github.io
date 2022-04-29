@@ -1,0 +1,28 @@
+.sliderContactButton{
+    background-color: blue;
+    color:white;
+    border-radius: 20px;
+    max-height: 1.5em;
+    font-weight: bold;
+    font-size: 2vw;
+    padding: 0 5% 0 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sliderContactButton:hover{
+    border: blue solid 1px;
+    background-color: white;
+    color: blue;
+}
+
+.sliderText{
+    color: Blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sliderText1{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5vw;
+}
+
